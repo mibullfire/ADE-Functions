@@ -47,6 +47,8 @@ def tipos_exponentes(tipo:str)->float:
     match tipo:
         case 'mensual':
             return 12
+        case 'bimestral':
+            return 6
         case 'trimestral':
             return 4
         case 'semestral':
