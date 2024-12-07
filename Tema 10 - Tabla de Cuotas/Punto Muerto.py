@@ -1,7 +1,7 @@
-costes_fijos = 25000+35000+81693.755+60000
-p = 400# Coste de cada equipo
-n = 500
-coste_variable = 300+30
+costes_fijos = 220000000
+p = 150000 # Coste de cada equipo
+n = 4800
+coste_variable = 125500
 
 #Punto Muerto
 m = p - coste_variable
